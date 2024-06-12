@@ -578,7 +578,7 @@ export const textNodes = [
   {
     id: 37,
     title: "Chapter 37: Guilty Bed Time",
-    text: "You stay in bed, feeling extremely guilty now. Finally, you get up.",
+    text: "You stay in bed, feeling extremely guilty now. Finally, will you get up.",
     img: "./assets/37.webp",
     options: [
       {
